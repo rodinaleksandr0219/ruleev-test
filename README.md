@@ -1,4 +1,4 @@
-# Create React App + Tailwind
+# Create React App + Tailwind + Storybook
 
 # Setup environment
 
